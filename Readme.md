@@ -10,10 +10,10 @@
 
 #### paises que lo cinforman: 
 
-#### Israel, 
-### Cisjordania con Jerusalén Este, la 
-### Franja de Gaza 
-### Jordania.
+1. #### Israel, 
+2. #### Cisjordania con Jerusalén Este
+3. #### Franja de Gaza 
+4. #### Jordania.
 
 
 
