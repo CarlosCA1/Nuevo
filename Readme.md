@@ -1,6 +1,6 @@
 # ***Conflicto de palestina***
 
-## Subtitulo: Inicio del conclicto
+## Subtitulo: Inicio del conflicto bélico
 
 ### Introduccion
 
